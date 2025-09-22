@@ -1,0 +1,10 @@
+[gd_resource type="StyleBoxTexture" load_steps=2 format=3 uid="uid://pnyiftkw0n4n"]
+
+[ext_resource type="Texture2D" uid="uid://clr0pj1whqyr" path="res://art/atlas/ModuleIcon.tres" id="1_td7q8"]
+
+[resource]
+texture = ExtResource("1_td7q8")
+expand_margin_left = 10.0
+expand_margin_top = 10.0
+expand_margin_right = 10.0
+expand_margin_bottom = 10.0
